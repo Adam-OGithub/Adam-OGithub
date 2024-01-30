@@ -1,16 +1,14 @@
-### Hi there 👋
+### 🐷 Hello! 🐷
+  ![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
-<!--
-**Adam-OGithub/Adam-OGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    About Me: 
+    - 😀 My name is Adam and I am a DevOps Engineer, aspiring indie game developer, and code enthusiast.
+    - 🎡 In my free time I work on my Discord bot `MomBot` which is written in JavaScript. I also am working on developing a game in Unreal Engine.
 
-Here are some ideas to get you started:
+    Tech and Stuff:
+    - 💿 I currently work with Kubernetes, Terraform, and mutliple CI/CD tools.
+    
+    Contact: 
+    - 📫 Contact me via LinkedIn (linkedin.com/in/adam-overton-b4a3b595).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](https://komarev.com/ghpvc/?username=Adam-OGithub&color=orange)
